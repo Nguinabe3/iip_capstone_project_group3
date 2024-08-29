@@ -1,0 +1,8 @@
+streamlit
+matplotlib
+pandas
+scikit-learn
+numpy
+seaborn
+scipy
+# Add any other necessary packages
