@@ -2,6 +2,8 @@ import streamlit as st
 import matplotlib.pyplot as plt
 from predict_page import show_predict_page
 from explore_page import Print, Plot, Univ_analysis
+import xgboost as xgb
+import pickle
 
 df = Print()
 with st.sidebar:
