@@ -5,6 +5,5 @@ scikit-learn
 numpy
 seaborn
 scipy
-pickle
-
+pickle5
 # Add any other necessary packages
